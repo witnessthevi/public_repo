@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\bin\Debug\net8.0\dotneting.exe
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\bin\Debug\net8.0\dotneting.deps.json
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\bin\Debug\net8.0\dotneting.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\bin\Debug\net8.0\dotneting.dll
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\bin\Debug\net8.0\dotneting.pdb
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\dotneting.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\dotneting.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\dotneting.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\dotneting.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\dotneting.dll
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\refint\dotneting.dll
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\dotneting.pdb
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\dotneting.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\witnessthevil\workspace\dotneting\obj\Debug\net8.0\ref\dotneting.dll
